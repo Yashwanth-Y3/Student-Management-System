@@ -19,8 +19,8 @@ This is a simple command-line program used to store and manage student details s
 ## Tools Used:
 **Python 3**
 
-## Steps to install and run the program:
-User must install python and should run it in any compiler such as VS Code editor or Google Collab etc.
+## Installation & Usage
+1. Make sure Python 3 is installed.
 
 ## Output Is:
 
