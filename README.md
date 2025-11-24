@@ -23,3 +23,5 @@ This is a simple command-line program used to store and manage student details s
 ![image alt](https://github.com/Yashwanth-Y3/Student-Management-System/blob/main/Screenshot%202025-11-24%20232715.png)
 ![image alt](https://github.com/Yashwanth-Y3/Student-Management-System/blob/main/Screenshot%202025-11-24%20232729.png)
 ![image alt](https://github.com/Yashwanth-Y3/Student-Management-System/blob/main/Screenshot%202025-11-24%20232745.png)
+![image alt](https://github.com/Yashwanth-Y3/Student-Management-System/blob/main/Screenshot%202025-11-24%20232802.png)
+![image alt]()
