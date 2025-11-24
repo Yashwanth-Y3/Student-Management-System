@@ -12,7 +12,7 @@ This is a simple command-line program used to store and manage student details s
 6. Data is temporary and exists only during execution
 
 ## Tools Used
-- Python 3.x
+- Python 3
 
 ## Steps to run
 1. Make sure Python 3.x is installed.
