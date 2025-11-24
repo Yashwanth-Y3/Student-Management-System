@@ -21,6 +21,16 @@ This is a simple command-line program used to store and manage student details s
 
 ## Installation & Usage
 1. Make sure Python 3 is installed.
+2. Run the program using:
+   Use the menu to manage student records. Data will be cleared once the program is closed.
+
+**Menu Options**
+1. Add Student  
+2. Display All Students  
+3. Search Student by Roll No.  
+4. Update Student Details  
+5. Delete Student  
+6. Exit
 
 ## Output Is:
 
