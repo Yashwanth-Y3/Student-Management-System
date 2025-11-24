@@ -1,5 +1,4 @@
-# student_management_system_memory_no_color.py
-# In-memory Student Management System (no colorama, no file saving)
+
 
 def deco_line(char='*', length=60):
     return char * length
@@ -203,3 +202,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
