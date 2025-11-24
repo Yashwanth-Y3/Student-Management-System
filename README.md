@@ -5,10 +5,15 @@ This is a simple command-line program used to store and manage student details s
 
 ## Features:
 1.Add new student records
+
 2.Display all students in a table format
+
 3.Search students by roll number
+
 4.Update existing details
+
 5.Delete any record with confirmation
+
 6.Data is temporary and exists only during execution
 
 ## Tools Used:
