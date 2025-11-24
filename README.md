@@ -1,31 +1,21 @@
-# Project Title: Pass_Gen
+# Project Title: Student Management System
 
 ## Overview:
-**Alex - Password Tool**
-A simple desktop app that:
-1. Creates strong random passwords
-2. Checks your password strength
-
-Works offline • Easy to use • Totally private
+This is a simple command-line program used to store and manage student details such as name, roll number, class, and marks. The system works entirely in memory and provides an easy menu to add, view, search, update, and delete records.
 
 ## Features:
-1. Smart Password Generator
-2. Advanced Strength Checker  
-3. User-Friendly Interface
-4. Secure
-5. Easily Accessible
+1.Add new student records
+2.Display all students in a table format
+3.Search students by roll number
+4.Update existing details
+5.Delete any record with confirmation
+6.Data is temporary and exists only during execution
 
 ## Tools Used:
-**Python:**
-- Re
-- Random
-- Colorama
+**Python 3**
 
 ## Steps to install and run the program:
-User must install all the modules of python mentioned above and should run it in any compiler such as VS Code editor.
+User must install python and should run it in any compiler such as VS Code editor or Google Collab etc.
 
-```bash
-pip install colorama
-```
 ## Output Is:
-![image alt](https://github.com/Jazz1-6/Pass_Gen/blob/01f2049eef28f910c1234ada9479fb82def9161d/Screenshot%202025-11-23%20010950.png)
+
