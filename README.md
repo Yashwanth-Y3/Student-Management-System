@@ -33,4 +33,5 @@ This is a simple command-line program used to store and manage student details s
 6. Exit
 
 ## Output Is:
+[!image]()
 
