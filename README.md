@@ -16,7 +16,15 @@ This is a simple command-line program used to store and manage student details s
 
 ## Steps to run
 1. Make sure Python 3.x is installed.
-2. (Optional) Install colorama using:
+2. Run the program using menu to manage student records:
+   **Menu Options**
+1. Add Student  
+2. Display All Students  
+3. Search Student by Roll No.  
+4. Update Student Details  
+5. Delete Student  
+6. Exit
+**NOTE:** Data will be cleared once the program is closed.
 
 ## Output Is:
 ![image alt](https://github.com/Yashwanth-Y3/Student-Management-System/blob/main/Screenshot%202025-11-24%20232655.png)
