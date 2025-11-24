@@ -19,4 +19,4 @@ This is a simple command-line program used to store and manage student details s
 2. (Optional) Install colorama using:
 
 ## Output Is:
-![image alt](https://github.com/Yashwanth-Y3/Student-Management-System/blob/01f2049eef28f910c1234ada9479fb82def9161d/Screenshot%202025-11-23%20010950.png)
+![image alt](https://github.com/Yashwanth-Y3/Student-Management-System/blob/main/Screenshot%202025-11-24%20232655.png)
