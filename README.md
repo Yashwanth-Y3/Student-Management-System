@@ -24,6 +24,7 @@ This is a simple command-line program used to store and manage student details s
 4. Update Student Details  
 5. Delete Student  
 6. Exit
+
 **NOTE:** Data will be cleared once the program is closed.
 
 ## Output Is:
