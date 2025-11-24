@@ -1,48 +1,39 @@
-# Pass_Gen - Password Generator & Strength Checker
+# Student Management System
 
 ## Problem Statement
-The core problem this project addresses is the widespread vulnerability caused by poor password management practices. Despite repeated warnings from cybersecurity experts, many users continue to engage in risky behaviors due to a lack of tools and awareness.
+Managing student records manually using notebooks or scattered spreadsheets becomes time-consuming and error-prone. There is a need for a simple system that allows quick entry, viewing, updating, and deletion of student details in one place through an easy terminal interface.
 
 ## Target Users
 
 ### Primary Users:
-- **General Internet Users**: Anyone who needs to create new passwords for websites, apps, or services and wants to ensure they are strong and secure.
-- **Security-Conscious Individuals**: People who are aware of online threats and want a reliable tool to check if their existing passwords are easy to crack.
-
+1. Teachers and class coordinators who need a simple tool to manage student information.
+2. College students handling small academic or departmental student lists.
 ### Secondary Users:
-- **IT Support Staff & Administrators**: Can use it to generate strong default passwords for new user accounts or to validate that company password policies are being followed.
-- **Developers & Students**: Those learning about or demonstrating cybersecurity principles related to password security and entropy.
+1. Tutors or coaching centers maintaining basic student records.
+2. Anyone who needs a quick, lightweight system for handling student data
 
 ## Project Scope
-1. **Password Generation**: Generates strong passwords with over 1,40,00,000 different possible outcomes for maximum uniqueness
-2. **Strength Checking**: Evaluates password strength and provides a grade based on comprehensive security testing
+1. Core student record management: add, display, search, update, delete.
+2. All data handled directly in the terminal during program run.
+3. No external files or database involved.
 
 ## Features
-- **Generate Strong Passwords**: Create secure, random passwords with high entropy
-- **Check Password Strength**: Analyze existing passwords with advanced strength assessment
-- **Easy to Use**: Simple, intuitive interface for all user levels
-- **Completely Private**: Works entirely offline - no data ever leaves your device
+- Add Student: Record name, roll number, class, and marks.
+- Display All Students: View all stored records in a structured table.
+- Search Student: Quickly retrieve details using roll number.
+- Update Student: Modify any field while keeping existing details if needed.
+- Delete Student: Remove records with confirmation.
+- Simple, clean, and accessible for everyday use.
 
 ## Overview
-**Alex - Password Tool**
-A simple desktop app that:
-- Creates strong random passwords
-- Checks your password strength
-
-Works offline • Easy to use • Totally private
+**Student Management System**
+A straightforward command-line system that manages student records while the program is running. It provides an organized menu and smooth navigation for handling all details efficiently.
 
 ## Tools Used
-**Python:**
-- Re
-- Random 
-- Colorama
+Python 3
 
 ## Installation & Usage
 
 ### Prerequisites
-- Python 3.x installed on your system
+- Python 3 installed on your system
 
-### Steps to Run:
-1. Install required module:
-```bash
-pip install colorama
